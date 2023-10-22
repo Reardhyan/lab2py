@@ -1,1 +1,8 @@
-# lab2py![Screenshot (2)](https://github.com/Reardhyan/lab2py/assets/148032571/2010945e-6ba2-4e0f-8f38-13e6a106e981)
+LATIHAN 1
+
+BUKA CMD
+KETIK PYTHON
+PRINT("HELLO")
+PRINT("saya sedang belajar python")
+PRINT("SAYA SEDANG BELAJAR PYTHON")
+![Screenshot (86)](https://github.com/Reardhyan/lab2py/assets/148032571/1b88870b-5c58-44a3-9985-cb770c9d35a2)
